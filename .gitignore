@@ -1,0 +1,13 @@
+src/credentials.json
+src/token.json
+.env
+
+esptool/
+example/
+__pycache__/
+.nicegui/
+build/
+.venv/
+.vscode/
+supervisord.log
+supervisord.pid

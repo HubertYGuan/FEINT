@@ -1,0 +1,5 @@
+.venv/
+.vscode/
+esptool/
+example/
+src/token.json
